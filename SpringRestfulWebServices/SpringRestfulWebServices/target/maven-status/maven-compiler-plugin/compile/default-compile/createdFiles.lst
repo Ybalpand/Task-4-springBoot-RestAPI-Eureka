@@ -1,0 +1,11 @@
+com\mycompany\SpringRestfulWebServices\dao\DocumentDAO.class
+com\mycompany\SpringRestfulWebServices\service\CustomerService.class
+com\mycompany\SpringRestfulWebServices\exception\CustomerNotFoundException.class
+com\mycompany\SpringRestfulWebServices\SpringRestfulWebServicesApplication.class
+com\mycompany\SpringRestfulWebServices\entity\Gender.class
+com\mycompany\SpringRestfulWebServices\service\CustomerServiceImpl.class
+com\mycompany\SpringRestfulWebServices\dao\CustomerDAO.class
+com\mycompany\SpringRestfulWebServices\controller\CustomerController.class
+com\mycompany\SpringRestfulWebServices\entity\Customer.class
+com\mycompany\SpringRestfulWebServices\entity\Document.class
+com\mycompany\SpringRestfulWebServices\constants\ConstantsUtil.class
